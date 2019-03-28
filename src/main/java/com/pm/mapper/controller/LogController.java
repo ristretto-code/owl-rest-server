@@ -78,7 +78,7 @@ public class LogController {
         return esYoutubeDataService.insertYoutubeData(keyword, map);
     }
 
-    @RequestMapping(value="/log/searchdata/insert", method= RequestMethod.POST)
+    @RequestMapping(value="/searchdata/insert", method= RequestMethod.POST)
     public String collectData(@RequestBody List<String> keywordList){
         int count = 0;
         count += esSearchDataService.insertGoogleDataList(keywordList);

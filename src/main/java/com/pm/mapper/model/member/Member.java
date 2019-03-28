@@ -1,6 +1,5 @@
 package com.pm.mapper.model.member;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.pm.mapper.model.review.Review;
 import com.pm.mapper.model.sortedQuestion.SortedQuestion;
 import com.pm.mapper.model.sortedQuestion.SortedQuestionReply;
@@ -41,7 +40,7 @@ public class Member{
     @CreationTimestamp
     private Date regdate;
 
-    public  Member(){
+    public Member(){
 
     }
 

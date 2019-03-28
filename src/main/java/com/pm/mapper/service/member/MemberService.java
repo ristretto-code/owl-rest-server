@@ -3,11 +3,6 @@ package com.pm.mapper.service.member;
 import com.pm.mapper.model.member.Member;
 import com.pm.mapper.pojo.JwtHelper;
 import com.pm.mapper.repository.member.MemberRepository;
-import com.pm.mapper.service.review.ReviewService;
-import com.pm.mapper.service.sortedQuestion.SortedQuestionReplyService;
-import com.pm.mapper.service.sortedQuestion.SortedQuestionService;
-import com.pm.mapper.service.unsolvedQuestion.UnsolvedQuestionReplyService;
-import com.pm.mapper.service.unsolvedQuestion.UnsolvedQuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
