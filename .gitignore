@@ -100,3 +100,21 @@ application.yml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/.name
+.gradle/4.10.2/fileHashes/fileHashes.lock
+.gradle/4.10.2/fileHashes/fileHashes.bin
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/.name
+.gradle/4.10.2/fileHashes/fileHashes.lock
+*.xml
+*.lock
+.idea/misc.xml
+.idea/encodings.xml
+.idea/compiler.xml
+.idea/.name
+.gradle/4.10.2/fileHashes/fileHashes.lock
